@@ -1,4 +1,4 @@
-#lang planet neil/sicp
+#lang sicp
 
 (define (sqrt x)
   (define (good-enough? guess)

@@ -1,4 +1,4 @@
-#lang planet neil/sicp
+#lang sicp
 
 ; Exercise 1.1
 
