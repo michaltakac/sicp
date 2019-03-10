@@ -1,3 +1,0 @@
-#lang planet neil/sicp
-
-(+ 1337 1234)
